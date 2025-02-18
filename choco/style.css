@@ -1,0 +1,133 @@
+
+.noto-serif-jp-uniquifier {
+    font-family: "Noto Serif JP", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  .m-plus-rounded-1c-regular {
+    font-family: "M PLUS Rounded 1c", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .dela-gothic-one-regular {
+    font-family: "Dela Gothic One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
+.noto-sans-jp-uniquifier {
+    font-family: "Noto Sans JP", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+
+.dancing-script-uniquifier {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+body {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titles {
+    font-size: 70px;
+    color: #56a398;
+}
+
+.makeBtn {
+    margin-top: 70px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background: #333;
+    padding: 10px 20px;
+    border-radius: 6px;
+    transition: .3s;
+  }
+.makeBtn:hover {
+    background: #ff99a3;
+  }
+
+#makeBtn {
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.Entxt {
+    color: #56a398;
+    font-size: 30px;
+}
+
+.all {
+    width: 100%;
+    margin: auto;
+}
+
+.secand {
+    margin: auto;
+    width: 60%;
+    margin-top: 30px;
+    border: 1px solid #ff99a3;
+    padding: 10px;
+    line-height: 50px;
+}
+
+.txt {
+    margin: auto;
+    width: 60%;
+    font-size: 25px;
+    border: 1px solid #ff99a3;
+    border-radius: 30px;
+}
+
+.txtin {
+    font-size: 20px;
+}
+
+.txtfi {
+    color: #ff99a3;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid #ff99a3;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.backBtn {
+    margin-top: 40px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background: #333;
+    padding: 5px 20px;
+    border-radius: 6px;
+    transition: .3s;
+  }
+.backBtn:hover {
+    background: #ff99a3;
+  }
+
+#nots {
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.nottxt {
+  color: #ff99a3;
+}
+
+.hidden {
+    display: none;
+}
